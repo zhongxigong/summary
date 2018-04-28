@@ -7,3 +7,5 @@
 5. 网络知识,http,tcp,ip.netty 使用以及源码阅读,okhttp源码阅读。
 6. 设计模式
 7. clean code
+8. MBA课程
+9. 情商
